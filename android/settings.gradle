@@ -1,0 +1,3 @@
+rootProject.name = 'LBS2'
+
+include ':app'
