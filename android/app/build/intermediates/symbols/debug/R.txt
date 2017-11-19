@@ -468,8 +468,9 @@ int drawable hotelesed 0x7f020046
 int drawable launther_image 0x7f020047
 int drawable movie 0x7f020048
 int drawable moviesed 0x7f020049
-int drawable notification_template_icon_bg 0x7f02004b
+int drawable notification_template_icon_bg 0x7f02004c
 int drawable wc 0x7f02004a
+int drawable wellcome 0x7f02004b
 int id action0 0x7f0d0058
 int id action_bar 0x7f0d0048
 int id action_bar_activity_content 0x7f0d0000

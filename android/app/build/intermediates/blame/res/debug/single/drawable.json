@@ -104,6 +104,10 @@
         "source": "/Users/hardy/Desktop/LBS/LBS/android/app/src/main/res/drawable/movie.png"
     },
     {
+        "merged": "/Users/hardy/Desktop/LBS/LBS/android/app/build/intermediates/res/merged/debug/drawable/wellcome.jpg",
+        "source": "/Users/hardy/Desktop/LBS/LBS/android/app/src/main/res/drawable/wellcome.jpg"
+    },
+    {
         "merged": "/Users/hardy/Desktop/LBS/LBS/android/app/build/intermediates/res/merged/debug/drawable/foodsed.png",
         "source": "/Users/hardy/Desktop/LBS/LBS/android/app/src/main/res/drawable/foodsed.png"
     },

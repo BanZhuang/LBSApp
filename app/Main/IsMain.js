@@ -60,7 +60,6 @@ class IsMain extends Component {
                     onPress={() => this.setState({ selectedTab: 'hotel' })}>
                     <IsHotel></IsHotel>
                 </TabNavigator.Item>
-
             </TabNavigator>
 
         );
@@ -82,4 +81,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default IsMain;
+export default IsMain

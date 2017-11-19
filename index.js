@@ -1,3 +1,4 @@
-//作为出口文件
-import './App';
+import { AppRegistry } from 'react-native';
+import App from './App';
 
+AppRegistry.registerComponent('LBS2', () => App);

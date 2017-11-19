@@ -10,7 +10,8 @@
 		"react": "16.0.0",
 		"react-native": "0.50.3",
 		"react-native-tab-navigator": "^0.3.4",
-		"react-navigation": "^1.0.0-beta.19"
+		"react-navigation": "^1.0.0-beta.19",
+		"standard": "^10.0.3"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",

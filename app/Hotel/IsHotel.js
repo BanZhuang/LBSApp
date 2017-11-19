@@ -10,10 +10,10 @@ export default class IsHotel extends Component {
         return (
             <View style={styles.container}>
                 <Text>
-                    银行
+                    酒店
                 </Text>
             </View>
-        );
+        )
     }
 }
 
