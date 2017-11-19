@@ -4,3 +4,4 @@
 - webstorm
 - react-native
 - AndroidStudio
+- react-native-tab-navigator

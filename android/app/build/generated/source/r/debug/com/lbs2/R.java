@@ -1810,7 +1810,20 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f02003b;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f02003c;
         public static final int abc_textfield_search_material=0x7f02003d;
-        public static final int notification_template_icon_bg=0x7f02003e;
+        public static final int bank=0x7f02003e;
+        public static final int banksed=0x7f02003f;
+        public static final int camera=0x7f020040;
+        public static final int coffie=0x7f020041;
+        public static final int dis=0x7f020042;
+        public static final int food=0x7f020043;
+        public static final int foodsed=0x7f020044;
+        public static final int hotel=0x7f020045;
+        public static final int hotelesed=0x7f020046;
+        public static final int launther_image=0x7f020047;
+        public static final int movie=0x7f020048;
+        public static final int moviesed=0x7f020049;
+        public static final int notification_template_icon_bg=0x7f02004b;
+        public static final int wc=0x7f02004a;
     }
     public static final class id {
         public static final int action0=0x7f0d0058;
