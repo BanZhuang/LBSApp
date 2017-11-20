@@ -1,30 +1,58 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
+// 引入组件
 import {
     View,
+    ScrollView,
     Text,
     StyleSheet
 } from 'react-native'
 
+import TopBar from './Topbar/TopBar'
+import Feature from './Feature/Feature'
+
 export default class IsFood extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-                <Text>
-                    美食页
-                </Text>
-            </View>
-        );
-    }
+  render () {
+    return (
+      <View style={styles.container}>
+        <TopBar />
+        <ScrollView>
+          <Feature />
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+          <Text>Test</Text>
+        </ScrollView>
+
+      </View>
+    )
+  }
 }
 
-IsFood.propTypes = {};
-IsFood.defaultProps = {};
-
 const styles = StyleSheet.create({
-    container : {
-        flex : 1,
-        justifyContent : 'center',
-        alignItems : "center"
-    }
+  container: {
+  }
 })
-

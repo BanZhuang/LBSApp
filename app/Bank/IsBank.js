@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
 import {
     View,
     Text,
@@ -6,25 +6,24 @@ import {
 } from 'react-native'
 
 export default class IsBank extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-                <Text>
+  render () {
+    return (
+      <View style={styles.container}>
+        <Text>
                     银行
                 </Text>
-            </View>
-        );
-    }
+      </View>
+    )
+  }
 }
 
-IsBank.propTypes = {};
-IsBank.defaultProps = {};
+IsBank.propTypes = {}
+IsBank.defaultProps = {}
 
 const styles = StyleSheet.create({
-    container : {
-        flex : 1,
-        justifyContent : 'center',
-        alignItems : "center"
-    }
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
 })
-

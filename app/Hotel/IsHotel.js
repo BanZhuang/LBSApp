@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
 import {
     View,
     Text,
@@ -6,25 +6,21 @@ import {
 } from 'react-native'
 
 export default class IsHotel extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-                <Text>
+  render () {
+    return (
+      <View style={styles.container}>
+        <Text>
                     酒店
                 </Text>
-            </View>
-        )
-    }
+      </View>
+    )
+  }
 }
 
-IsHotel.propTypes = {};
-IsHotel.defaultProps = {};
-
 const styles = StyleSheet.create({
-    container : {
-        flex : 1,
-        justifyContent : 'center',
-        alignItems : "center"
-    }
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
 })
-
