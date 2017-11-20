@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4b6697a-fa59-47a1-84cb-0a129a39a0b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/assets/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Food/Feature/Feature.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Food/Feature/FeatureItems.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Food/Topbar/TopBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/datas/FeatureData.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__tests__/App.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Bank/IsBank.js" afterPath="$PROJECT_DIR$/app/Bank/IsBank.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Food/IsFood.js" afterPath="$PROJECT_DIR$/app/Food/IsFood.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Hotel/IsHotel.js" afterPath="$PROJECT_DIR$/app/Hotel/IsHotel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Main/IsMain.js" afterPath="$PROJECT_DIR$/app/Main/IsMain.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Main/LauncherPage.js" afterPath="$PROJECT_DIR$/app/Main/LauncherPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Movie/IsMovie.js" afterPath="$PROJECT_DIR$/app/Movie/IsMovie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Hello/Hello.js" afterPath="$PROJECT_DIR$/components/Hello/Hello.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/achievement/2017-11-20 19.20.01.gif" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -342,11 +318,11 @@
       <recent name="$PROJECT_DIR$/components" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/achievement" />
       <recent name="$PROJECT_DIR$/app/Food/Feature" />
       <recent name="$PROJECT_DIR$/app/Food" />
       <recent name="$PROJECT_DIR$/app/datas" />
       <recent name="$PROJECT_DIR$/android/app/src/main/res/assets" />
-      <recent name="$PROJECT_DIR$/app/Food/Topbar" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -372,18 +348,17 @@
       <option name="presentableId" value="Default" />
       <updated>1510983569539</updated>
       <workItem from="1510983575105" duration="13450000" />
-      <workItem from="1511139842362" duration="16811000" />
+      <workItem from="1511139842362" duration="16942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30261000" />
+    <option name="totallyTimeSpent" value="30392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="49" width="1440" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
